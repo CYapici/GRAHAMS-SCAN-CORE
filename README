@@ -1,0 +1,3 @@
+		// collinear with the 'lowest' point, let the point closest
+					// to it come first 
+					// use longs to guard against int-over/underflow
